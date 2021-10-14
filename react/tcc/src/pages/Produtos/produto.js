@@ -24,7 +24,7 @@ export default function Produtos() {
                  </div>
 
                  <div className = "Preco">Valor: 2,50 R$ </div>
-                 <div className = "botão-compra"> <button> Compra </button> </div>
+                 <div className = "botão-compra"> <button> COMPRA </button> </div>
                    
                   </div>
                 </div>
